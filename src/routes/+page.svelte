@@ -3,7 +3,7 @@
 	import Faq from '../components/Faq.svelte';
 	import Footer from '../components/Footer.svelte';
 	import Header from '../components/Header.svelte';
-	import HeroImage from '../components/HeroImage.svelte';
+	import TheGoat from '../components/TheGoat.svelte';
 	import InfoSection from '../components/InfoSection.svelte';
 	import MapSection from '../components/MapSection.svelte';
 	import Menu from '../components/Menu.svelte';
@@ -13,11 +13,13 @@
 <div class="w-96 min-h-screen bg-gradient-to-b from-white to-sky-400 font-['New_Spirit']">
 	<Header />
 	<Navigation />
-	<HeroImage />
+	<TheGoat />
+	<!-- 
 	<Chefs />
 	<Menu />
 	<InfoSection />
 	<MapSection />
 	<Faq />
-	<Footer />
+	<Footer /> 
+	-->
 </div>
