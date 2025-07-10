@@ -14,8 +14,8 @@
 	<Header />
 	<Navigation />
 	<TheGoat />
-	<!-- 
 	<Chefs />
+	<!-- 
 	<Menu />
 	<InfoSection />
 	<MapSection />

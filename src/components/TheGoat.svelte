@@ -1,3 +1,3 @@
-<div class="px-4 mb-8">
+<div class="px-4 mb-14">
 	<img src="/TheGoat.svg" alt="" />
 </div>

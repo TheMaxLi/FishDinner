@@ -9,7 +9,7 @@
 	}
 </script>
 
-<div class="relative w-full">
+<div class="relative w-full flex justify-end pt-32 pb-15">
 	<img src="/NavigationStar.svg" alt="" />
 
 	<a
