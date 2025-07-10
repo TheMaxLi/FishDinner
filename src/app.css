@@ -16,3 +16,12 @@
 .animate-marquee {
 	animation: marquee 15s linear infinite;
 }
+
+@font-face {
+	font-family: "New-Spirit";
+	src: url("../static/fonts/New-Spirit.otf")
+}
+
+@theme {
+	--font-New-Spirit: "New-Spirit"
+}

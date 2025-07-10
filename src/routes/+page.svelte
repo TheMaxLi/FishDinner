@@ -6,17 +6,17 @@
 	import TheGoat from '../components/TheGoat.svelte';
 	import InfoSection from '../components/InfoSection.svelte';
 	import MapSection from '../components/MapSection.svelte';
-	import Menu from '../components/Menu.svelte';
+	import Menu from '../components/menu/Menu.svelte';
 	import Navigation from '../components/Navigation.svelte';
 </script>
 
-<div class="w-96 min-h-screen bg-gradient-to-b from-white to-sky-400 font-['New_Spirit']">
+<div class="max-w-[400px] min-h-screen font-['New_Spirit']">
 	<Header />
 	<Navigation />
 	<TheGoat />
 	<Chefs />
-	<!-- 
 	<Menu />
+	<!-- 
 	<InfoSection />
 	<MapSection />
 	<Faq />
