@@ -16,8 +16,8 @@
 	<TheGoat />
 	<Chefs />
 	<Menu />
-	<!-- 
 	<InfoSection />
+	<!-- 
 	<MapSection />
 	<Faq />
 	<Footer /> 

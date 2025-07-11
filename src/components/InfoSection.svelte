@@ -1,11 +1,12 @@
-<div class="px-4 mb-8">
-	<div class="text-cyan-900 text-6xl font-normal mb-4">#info</div>
-
-	<div class="text-right text-cyan-900 text-xl font-normal mb-8">
-		this event is free to attend, but if you'd like to support us, donations are welcome!!!
-	</div>
-
-	<div class="text-center text-white text-5xl font-normal lowercase">
-		july 22 2025<br />2 pm
+<div class="px-4 mb-8 flex flex-col gap-4">
+	<img
+		class="w-full h-full"
+		src="/InfoAndMap.svg"
+		alt="what the hell thats a  lot of things here, its a info section and a fricking map section"
+	/>
+	<div
+		class="w-full h-7 text-center justify-start text-black text-2xl font-normal font-['New_Spirit'] lowercase"
+	>
+		183 E Georgia St, Vancouver, BC V6A 0E5
 	</div>
 </div>
