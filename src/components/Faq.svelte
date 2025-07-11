@@ -29,16 +29,16 @@
 	];
 </script>
 
-<div class="px-4 mb-8">
-	<div class="text-center text-cyan-900 text-4xl font-normal mb-8">#faq</div>
+<div class="px-4 mb-8 pt-40">
+	<div class="text-center text-cyan-900 text-5xl font-normal mb-8">#faq</div>
 
 	<div class="space-y-0">
 		{#each faqItems as item}
 			<div class="border-t border-b border-cyan-900 py-1.5">
-				<div class="text-cyan-900 text-xl font-medium lowercase">
+				<div class="text-cyan-900 text-xl font-semibold lowercase">
 					➬ {item.question}
 				</div>
-				<div class="text-cyan-900 text-base font-normal lowercase whitespace-pre-line">
+				<div class="text-cyan-900 text-lg font-medium lowercase whitespace-pre-line">
 					{item.answer}
 				</div>
 			</div>

@@ -5,7 +5,6 @@
 	import Header from '../components/Header.svelte';
 	import TheGoat from '../components/TheGoat.svelte';
 	import InfoSection from '../components/InfoSection.svelte';
-	import MapSection from '../components/MapSection.svelte';
 	import Menu from '../components/menu/Menu.svelte';
 	import Navigation from '../components/Navigation.svelte';
 </script>
@@ -17,9 +16,8 @@
 	<Chefs />
 	<Menu />
 	<InfoSection />
-	<!-- 
-	<MapSection />
 	<Faq />
+	<!-- 
 	<Footer /> 
 	-->
 </div>
