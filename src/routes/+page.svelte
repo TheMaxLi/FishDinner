@@ -10,7 +10,7 @@
 	import Navigation from '../components/Navigation.svelte';
 </script>
 
-<div class="max-w-[400px] min-h-screen font-['New_Spirit']">
+<div class="w-screen min-h-screen font-['New_Spirit']">
 	<Header />
 	<Navigation />
 	<TheGoat />

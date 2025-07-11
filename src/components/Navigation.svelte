@@ -9,7 +9,7 @@
 	}
 </script>
 
-<div class="relative w-screen flex justify-end pt-32 pb-15">
+<div class="relative w-full flex justify-end pt-32 pb-15">
 	<img src="/NavigationStar.svg" alt="" class="w-fit" />
 	<a
 		href="#chefs"
