@@ -1,4 +1,5 @@
 <script lang="ts">
+	import Drinks from './Drinks.svelte';
 	import Pizza from './Pizza.svelte';
 	import Sandwiches from './Sandwiches.svelte';
 
@@ -37,7 +38,7 @@
 	{#if selectedMenuItem === 'pizza'}
 		<Pizza />
 	{:else if selectedMenuItem === 'drinks'}
-		drinks
+		<Drinks />
 	{:else if selectedMenuItem === 'sandwiches'}
 		<Sandwiches />
 	{/if}

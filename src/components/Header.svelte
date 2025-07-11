@@ -2,13 +2,13 @@
 	<div class="w-[95%] h-12 outline-[3px] outline-offset-[-3px] outline-sky-400 overflow-hidden">
 		<div class="flex animate-marquee whitespace-nowrap items-center h-full">
 			<div class="text-center text-cyan-900 text-2xl mx-8 font-New-Spirit">
-				tuesday july 22th 2025 2pm
+				tuesday july 22nd 2025 2pm
 			</div>
 			<div class="text-center text-cyan-900 text-2xl font-normal mx-8 font-New-Spirit">
-				tuesday july 22th 2025 2pm
+				tuesday july 22nd 2025 2pm
 			</div>
 			<div class="text-center text-cyan-900 text-2xl font-normal mx-8 font-New-Spirit">
-				tuesday july 22th 2025 2pm
+				tuesday july 22nd 2025 2pm
 			</div>
 		</div>
 	</div>
