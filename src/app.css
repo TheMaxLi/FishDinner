@@ -18,10 +18,30 @@
 }
 
 @font-face {
-	font-family: "New-Spirit";
-	src: url("../static/fonts/New-Spirit.otf")
+	font-family: 'New-Spirit';
+	src: url('/fonts/New-Spirit.otf');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'New-Spirit-Medium';
+	src: url('/fonts/New-Spirit-Medium.otf');
+	font-weight: 500;
+	font-style: normal;
 }
 
 @theme {
-	--font-New-Spirit: "New-Spirit"
+	--font-New-Spirit: 'New-Spirit-Medium';
+	--font-New-Spirit-Light: 'New-Spirit';
+}
+
+html {
+	font-family: 'New-Spirit', sans-serif;
+}
+
+/* Tailwind override: make font-normal use New-Spirit */
+.font-normal {
+	font-family: 'New-Spirit', sans-serif !important;
+	font-weight: 400 !important;
 }

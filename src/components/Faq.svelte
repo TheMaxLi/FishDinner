@@ -29,12 +29,12 @@
 	];
 </script>
 
-<div class="px-4 mb-8 pt-40">
-	<div class="text-center text-cyan-900 text-5xl font-normal mb-8">#faq</div>
+<div class="px-4 mb-4 pt-40">
+	<div class="text-center text-cyan-900 text-5xl font-normal mb-8 mt-4" id="faq">#faq</div>
 
 	<div class="space-y-0">
 		{#each faqItems as item}
-			<div class="border-t border-b border-cyan-900 py-1.5">
+			<div class="border-t-2 border-b-2 border-dashed not-first:border-t-0 border-cyan-900 py-1.5">
 				<div class="text-cyan-900 text-xl font-semibold lowercase">
 					➬ {item.question}
 				</div>

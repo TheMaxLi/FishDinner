@@ -1,5 +1,10 @@
 <div class="space-y-4">
-	<div class="text-red-600 text-6xl font-medium lowercase">sandwiches</div>
+	<div
+		class="text-red-600 text-5xl font-medium lowercase"
+		style="transform: scaleY(1.5); transform-origin: top; margin-bottom: 40px;"
+	>
+		sandwiches
+	</div>
 
 	<div class="space-y-4">
 		<div>

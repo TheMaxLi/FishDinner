@@ -13,28 +13,28 @@
 	<img src="/NavigationStar.svg" alt="" class="w-fit" />
 	<a
 		href="#chefs"
-		class="w-16 h-8 right-[110px] top-[265px] absolute text-right justify-start text-cyan-900 text-xl font-normal font-['New_Spirit']"
+		class="w-16 h-8 right-[110px] top-[265px] absolute text-right justify-start text-cyan-900 text-xl font-normal"
 		onclick={smoothScroll}
 	>
 		chefs
 	</a>
 	<a
 		href="#menu"
-		class="w-16 h-8 right-[190px] top-[360px] absolute text-right justify-start text-cyan-900 text-xl font-normal font-['New_Spirit']"
+		class="w-16 h-8 right-[190px] top-[360px] absolute text-right justify-start text-cyan-900 text-xl font-normal"
 		onclick={smoothScroll}
 	>
 		menu
 	</a>
 	<a
 		href="#info"
-		class="w-16 h-8 right-[190px] top-[490px] absolute text-right justify-start text-cyan-900 text-xl font-normal font-['New_Spirit']"
+		class="w-16 h-8 right-[190px] top-[490px] absolute text-right justify-start text-cyan-900 text-xl font-normal"
 		onclick={smoothScroll}
 	>
 		info
 	</a>
 	<a
 		href="#faq"
-		class="w-16 h-8 right-[110px] top-[590px] absolute text-right justify-start text-cyan-900 text-xl font-normal font-['New_Spirit']"
+		class="w-16 h-8 right-[110px] top-[590px] absolute text-right justify-start text-cyan-900 text-xl font-normal"
 		onclick={smoothScroll}
 	>
 		faq

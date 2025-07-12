@@ -1,7 +1,12 @@
 <div class="space-y-8">
 	<!-- Pizzas Section -->
 	<div class="space-y-4">
-		<div class="text-red-600 text-6xl font-medium lowercase">pizzas</div>
+		<div
+			class="text-red-600 text-5xl font-medium lowercase"
+			style="transform: scaleY(1.5); transform-origin: top; margin-bottom: 45px;"
+		>
+			pizzas
+		</div>
 		<div class="text-red-900 text-xl font-normal lowercase">
 			all pizzas made fresh, served hot and crisp.
 		</div>
@@ -37,7 +42,12 @@
 
 	<!-- Toppings Section -->
 	<div class="">
-		<div class="text-red-600 text-4xl font-medium lowercase mb-4">toppings</div>
+		<div
+			class="text-red-600 text-4xl font-medium lowercase mb-4"
+			style="transform: scaleY(1.5); transform-origin: top; margin-bottom: 35px;"
+		>
+			toppings
+		</div>
 		<div class="text-red-900 text-xl font-normal lowercase">Want more on it?</div>
 		<div class="text-red-900 text-xl font-normal lowercase">
 			<ul class="list-disc pl-7">
